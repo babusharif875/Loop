@@ -1,2 +1,2 @@
-var lr = prompt("Enter your Haguu")
+var lr = prompt("Enter your ")
 document.write(lr)
